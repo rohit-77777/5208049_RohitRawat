@@ -2,7 +2,9 @@
 LTTS Step-In Training
 
 SDLC Certificate
-<img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/SDLC/5208049_RohitRawat.png" alt="5208049_RohitRawat" width="100" />
+
+
+<img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/SDLC/5208049_RohitRawat.png" alt="5208049_RohitRawat" width="300" />
 
 
 
@@ -10,11 +12,11 @@ SDLC Certificate
 
 Git CodeSignal Certificate
 
-<img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Git/5208049_RohitRawat.png" alt="5208049_RohitRawat" width="100" />
+<img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Git/5208049_RohitRawat.png" alt="5208049_RohitRawat" width="300" />
 
 
 
 
 Git SimpliLearn Certificate
 
-[Download PDF](5208049_RohitRawat.pdf)
+[5208049_RohitRawat.pdf](https://github.com/rohit-77777/5208049_RohitRawat/raw/main/Git/5208049_RohitRawat.pdf)
