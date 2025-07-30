@@ -23,13 +23,17 @@ Git SimpliLearn Certificate
 
 
 
+
+
 Linux Commands
+
+
 
 <p float="left">
   <img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Linux/LinuxCommand1.png" width="200" />
   <img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Linux/LinuxCommand2.png" width="200" />
   <img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Linux/LinuxCommand3.png" width="200" />
-   <img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Linux/LinuxCommand4.png" width="200" />
+  <img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Linux/LinuxCommand4.png" width="200" />
     <img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Linux/LinuxCommand5.png" width="200" />
      <img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Linux/LinuxCommand6.png" width="200" />
       <img src="https://github.com/rohit-77777/5208049_RohitRawat/blob/main/Linux/LinuxCommand7.png" width="200" />
