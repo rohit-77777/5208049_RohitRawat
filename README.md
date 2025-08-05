@@ -29,16 +29,6 @@ Git SimpliLearn Certificate
 
 
 
-
-
-
-
-
-
-
-
-
-
 Linux Commands
 
 
